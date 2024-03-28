@@ -1,0 +1,7 @@
+initialize loop counter;
+while(test loop counter using a condition)
+{
+    do this;
+    and this;
+    increment loop counter;
+}
