@@ -1,0 +1,6 @@
+for (initialize counter ; test counter ; increment counter)
+{
+    do this;
+    and this;
+    and this;
+}
