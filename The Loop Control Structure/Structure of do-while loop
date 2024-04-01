@@ -1,0 +1,7 @@
+do
+{
+    this;
+    and this;
+    and this;
+    and this;
+} while (this condition is true);
