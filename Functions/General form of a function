@@ -1,0 +1,8 @@
+function(arg1, arg2, arg3)
+type arg1, arg2, arg3;
+{
+    statement 1;
+    statement 2;
+    statement 3;
+    statement 4;
+}
