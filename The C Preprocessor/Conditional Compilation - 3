@@ -1,0 +1,9 @@
+int main()
+{
+    #ifdef PCAT
+        code suitable for a PC/AT
+    #else
+        code suitable for a PC/XT
+    #endif
+    code common to both the computers
+}
