@@ -1,0 +1,12 @@
+int main()
+{
+    #if TEST <= 5
+        statement 1;
+        statement 2;
+        statement 3;
+    #else
+        statement 4;
+        statement 5;
+        statement 6;
+    #endif
+}
