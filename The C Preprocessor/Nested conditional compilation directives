@@ -1,0 +1,17 @@
+#if ADAPTER == MA
+    code for monochrome adapter
+#else
+    #if ADAPTER == CGA
+        code for colour graphics adapter
+    #else
+        #if ADAPTER == EGA
+            code for enhanced graphics adapter
+        #else
+            #if ADAPTER == VGA
+                code for video graphics array
+            #else
+                code for super video graphics array
+            #endif
+        #endif
+    #endif
+#endif
